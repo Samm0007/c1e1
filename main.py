@@ -1,0 +1,1 @@
+print('Hola Mundo! mi nombre es Samuel Moreno y tengo 19 años, estudio ingeniería en sistemas en la UNIMET!')
